@@ -1,4 +1,11 @@
+
+# DONOT USE THIS FILE
+- Reason -  I used the name same as the plugin :facepalm:
+
 # speech_to_text
+
+
+
 
 A new Flutter project.
 
